@@ -1,6 +1,6 @@
 # React-app-Ngo
 
-Site link: https://ank-2222.github.io/
+Site link: https://ank-2222.github.io/React-app-Ngo/
 
 Project Title:
  Website for NGO.
@@ -16,7 +16,7 @@ while using react router , it was litlle bit difficult about importing links, ro
 
 How to run:
 I have deployed it in github page and you can manually go to the github page and run from there , else use this link directlr.
-https://ank-2222.github.io/
+https://ank-2222.github.io/React-app-Ngo/
 
 
 
